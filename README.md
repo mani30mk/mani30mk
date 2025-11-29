@@ -7,107 +7,31 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h2>System Map</h2>
-        <pre style="font-size: 10px; line-height: 1.0;">
-                                    ..   . . .
-                                   :::.::....::
-                                  :.:...:::...:
-                                 .::::::.....:..
-                                .::..::.:.:...:..
-                                :::::::.::..::.:.
-                                .::::::..:::::::
-                                ..:::::::..::::.
-                                 .::::::.:..:::
-                                  .:::::..:..:
-                                    ...:..::.
-                                     .:::::
-                                     .:::::
-                                    .::::::.
-                                    .::::::
-                                    .::::::
-                                   .:::::::
-        (LLM & Automation)         .:::::::
-                                  .::::::::
-                                  .::::::::
-                                 .::::::::::
-                                 .::::::::::
-                                .::::::::::::
-                                .::::::::::::
-                               .::::::::::::::
-                               .:::::::::::::::
-                              .::::::::::::::::
-                              .::::::::::::::::
-                            .::::::..::::::::::..
-                            .:::::..:::::::::::...
-                           .::::..:::::::::::::....
-                           .:::.:::::::::::::::.....
-                          .::..::::::::::::::::::....
-                         .::..:::::::::::::::::::....
-                        .:..::::::::::::::::::::::....
-                       ...::::::::::::::::::::::::....
-                      ...::::::::::::::::::::::::::...
-                     ...::::::::::::::::::::::::::::..
-                    ...:::::::::::::::::::::::::::::..
-                   ...::::::::::::::::::::::::::::::..
-                  ...::::::::::::::::::::::::::::::::.
-                  ..::::::::::::::::::::::::::::::::.
-                 ..::::::::::::::::::::::::::::::::::
-                ..:::::::::::::::::::::::::::::::::::
-                ..:::::::::::::::::::::::::::::::::::
-        </pre>
-        <p>I craft code, decode systems, and map the unknown.</p>
-      </div>
-    </td>
-
-    <td width="50%" valign="top">
-
-### 👤 Profile Overview
-
-> [cite_start]Transforming complex problems into automated, intelligent solutions. [cite: 5]
-
-| Section | Details |
-| :--- | :--- |
-| **Current Focus** | LLM Engineering, AI Systems, DevOps Automation |
-| **Education** | B.Tech. [cite_start]CSE (IOT and Automation) [cite: 5] |
-| **Graduation** | [cite_start]2027 [cite: 14] |
-| **Location** | [cite_start]Trichy, TN [cite: 13, 15] |
-
----
-
-### 🛠️ Core Skills
-
-| Category | Key Expertise |
-| :--- | :--- |
-| **LLM Engineering** | [cite_start]RAG Basics, Prompt Engineering, Function Calling, Gemini/OpenAI APIs [cite: 17] |
-| **AI Systems** | [cite_start]LangChain, LangGraph (basic), Streamlit, Gradio [cite: 18] |
-| **DevOps/Ops** | [cite_start]Docker, Git/GitHub, CI/CD (GitHub Actions), AWS EC2/S3 [cite: 11] |
-| **Programming** | [cite_start]Python, C, C++, Java [cite: 10] |
-
----
-
-### 🚀 Featured Project
-
-* **DevOpsAgent:** Self-Healing CI/CD Automation Agent using LangChain, LangGraph, and Docker. [cite_start]Automates PR review and fix suggestions. [cite: 21, 22, 23]
-* [cite_start]**LLMTrace:** LLM Behaviour & Token Influence Visualizer using Streamlit. [cite: 25, 26]
-
----
-
-### 📫 Connect
-
-* [cite_start]**Email:** maniofficial.ac.in@gmail.com [cite: 2]
-* [cite_start]**LinkedIn:** [www.linkedin.com/in/manikandan-s-166781301/](https://www.linkedin.com/in/manikandan-s-166781301/) [cite: 2]
-* [cite_start]**GitHub:** [github.com/mani30mk](https://github.com/mani30mk) [cite: 2]
-
-    </td>
-  </tr>
-</table>
+| | |
+| :---: | :--- |
+| **System Map** | **👤 Profile Overview** |
+| <pre style="font-size: 10px; line-height: 1.0;">                                    ..   . . .                                   :::.::....::                                  :.:...:::...:                                 .::::::.....:..                                .::..::.:.:...:..                                :::::::.::..::.:.                                .::::::..:::::::                                ..:::::::..::::.                                 .::::::.:..:::                                  .:::::..:..:                                    ...:..::.                                     .:::::                                     .:::::                                    .::::::.                                    .::::::                                    .::::::                                   .:::::::        (LLM & Automation)         .:::::::                                  .::::::::                                  .::::::::                                 .::::::::::                                 .::::::::::                                .::::::::::::                                .::::::::::::                               .::::::::::::::                               .:::::::::::::::                              .::::::::::::::::                              .::::::::::::::::                            .::::::..::::::::::..                            .:::::..:::::::::::...                           .::::..:::::::::::::....                           .:::.:::::::::::::::.....                          .::..::::::::::::::::::....                         .::..:::::::::::::::::::....                        .:..::::::::::::::::::::::....                       ...::::::::::::::::::::::::....                      ...::::::::::::::::::::::::::...                     ...::::::::::::::::::::::::::::..                    ...:::::::::::::::::::::::::::::..                   ...::::::::::::::::::::::::::::::..                  ...::::::::::::::::::::::::::::::::.                  ..::::::::::::::::::::::::::::::::.                 ..::::::::::::::::::::::::::::::::::                ..:::::::::::::::::::::::::::::::::::                ..:::::::::::::::::::::::::::::::::::</pre> | > Transforming complex problems into automated, intelligent solutions. |
+| | |
+| **I craft code, decode systems, and map the unknown.** | --- |
+| | **🛠️ Core Skills** |
+| | |
+| | **LLM Engineering** | RAG Basics, Prompt Engineering, Function Calling, Gemini/OpenAI APIs |
+| | **AI Systems** | LangChain, LangGraph (basic), Streamlit, Gradio |
+| | **DevOps/Ops** | Docker, Git/GitHub, CI/CD (GitHub Actions), AWS EC2/S3 |
+| | **Programming** | Python, C, C++, Java |
+| | |
+| | **🚀 Featured Project** |
+| | * **DevOpsAgent:** Self-Healing CI/CD Automation Agent. |
+| | * **LLMTrace:** LLM Behaviour & Token Influence Visualizer. |
+| | * **SafeDeploy:** AI-Assisted Infrastructure Config Generator. |
+| | |
+| | **📫 Connect** |
+| | * **Email:** maniofficial.ac.in@gmail.com |
+| | * **LinkedIn:** [www.linkedin.com/in/manikandan-s-166781301/](https://www.linkedin.com/in/manikandan-s-166781301/) |
+| | * **GitHub:** [github.com/mani30mk](https://github.com/mani30mk) |
 
 ---
 
 <div align="center">
-    [cite_start]*Pursuing literature, photography, violin, chess, and ethics.* [cite: 34, 39, 35]
+    *B.Tech CSE (SASTRA 2027) | Pursuing literature, photography, violin, chess, and ethics.*
 </div>
