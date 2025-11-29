@@ -9,61 +9,38 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="30%" valign="top">
       <div align="center">
         <h2>System Map</h2>
-        <pre style="font-size: 10px; line-height: 1.0;">
-                                    ..   . . .
-                                   :::.::....::
-                                  :.:...:::...:
-                                 .::::::.....:..
-                                .::..::.:.:...:..
-                                :::::::.::..::.:.
-                                .::::::..:::::::
-                                ..:::::::..::::.
-                                 .::::::.:..:::
-                                  .:::::..:..:
-                                    ...:..::.
-                                     .:::::
-                                     .:::::
-                                    .::::::.
-                                    .::::::
-                                    .::::::
-                                   .:::::::
-        (LLM & Automation)         .:::::::
-                                  .::::::::
-                                  .::::::::
-                                 .::::::::::
-                                 .::::::::::
-                                .::::::::::::
-                                .::::::::::::
-                               .::::::::::::::
-                               .:::::::::::::::
-                              .::::::::::::::::
-                              .::::::::::::::::
-                            .::::::..::::::::::..
-                            .:::::..:::::::::::...
-                           .::::..:::::::::::::....
-                           .:::.:::::::::::::::.....
-                          .::..::::::::::::::::::....
-                         .::..:::::::::::::::::::....
-                        .:..::::::::::::::::::::::....
-                       ...::::::::::::::::::::::::....
-                      ...::::::::::::::::::::::::::...
-                     ...::::::::::::::::::::::::::::..
-                    ...:::::::::::::::::::::::::::::..
-                   ...::::::::::::::::::::::::::::::..
-                  ...::::::::::::::::::::::::::::::::.
-                  ..::::::::::::::::::::::::::::::::.
-                 ..::::::::::::::::::::::::::::::::::
-                ..:::::::::::::::::::::::::::::::::::
-                ..:::::::::::::::::::::::::::::::::::
+        <pre style="font-size: 8px; line-height: 0.9;">
+         .::..:.:.::
+        .::...::::.:.
+       .:::::.:::..::
+      .:::::::..::.:.:
+     .::::::::.::.:.:.
+    .::::::::::..:.:.:
+   .:::::::::::::..:.::
+  .:::::::::::::::.::::
+ .:::::::::::::::::..::.
+.::::::::::::::::::::.::.
+.:::::::::::::::::::::.:
+(LLM & Automation)
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
+.:::::::::::::::::::::
         </pre>
         <p>I craft code, decode systems, and map the unknown.</p>
       </div>
     </td>
 
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
 
 ### 👤 Profile Overview
 
@@ -72,32 +49,32 @@
 | Section | Details |
 | :--- | :--- |
 | **Current Focus** | LLM Engineering, AI Systems, DevOps Automation |
-| **Education** | B.Tech. CSE (IOT and Automation) |
-| **Graduation** | 2027 |
+| **Education** | B.Tech. [cite_start]CSE (IOT and Automation) [cite: 5] |
+| **Graduation** | [cite_start]2027 [cite: 14] |
 
 ---
 
 ### 🛠️ Core Skills
 
-* **LLM Engineering:** RAG Basics, Prompt Engineering, Gemini/OpenAI APIs
-* **AI Systems:** LangChain, LangGraph (basic), Streamlit
-* **DevOps/Ops:** Docker, Git/GitHub, CI/CD (GitHub Actions), AWS EC2/S3
-* **Programming:** Python, C, C++, Java
+* [cite_start]**LLM Engineering:** RAG Basics, Prompt Engineering, Function Calling, Gemini/OpenAI APIs [cite: 17]
+* [cite_start]**AI Systems:** LangChain, LangGraph (basic), Streamlit [cite: 18]
+* [cite_start]**DevOps/Ops:** Docker, Git/GitHub, CI/CD (GitHub Actions), AWS EC2/S3 [cite: 11]
+* [cite_start]**Programming:** Python, C, C++, Java [cite: 10]
 
 ---
 
 ### 🚀 Featured Project
 
-* **DevOpsAgent:** Self-Healing CI/CD Automation Agent.
-* **LLMTrace:** LLM Behaviour & Token Influence Visualizer.
+* [cite_start]**DevOpsAgent:** Self-Healing CI/CD Automation Agent (LangChain, LangGraph, Docker)[cite: 21, 22].
+* [cite_start]**LLMTrace:** LLM Behaviour & Token Influence Visualizer (Python, Streamlit)[cite: 25, 26].
 
 ---
 
 ### 📫 Connect
 
-* **Email:** maniofficial.ac.in@gmail.com
-* **LinkedIn:** [Your LinkedIn Link]
-* **GitHub:** [github.com/mani30mk](https://github.com/mani30mk)
+* [cite_start]**Email:** maniofficial.ac.in@gmail.com [cite: 2]
+* [cite_start]**LinkedIn:** [www.linkedin.com/in/manikandan-s-166781301/](https://www.linkedin.com/in/manikandan-s-166781301/) [cite: 2]
+* [cite_start]**GitHub:** [github.com/mani30mk](https://github.com/mani30mk) [cite: 2]
 
     </td>
   </tr>
